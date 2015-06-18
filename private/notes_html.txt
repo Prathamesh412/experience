@@ -1,0 +1,36 @@
+ctrl shift d for same linecopy
+
+block element take the whole line
+inline is of a specific length
+
+html element plus tab will get the full line for eg--input will give input type
+
+loren will give giberish text
+control / will comment the line
+
+Html consists of structure content and style of the body
+
+Three ways to use css 
+1- inline
+2- internal css--defined in the head
+3 external css
+
+External is loaded first the internal and inline third..so the priority is inline internal and external
+
+yahoo css reset api call reset from yahoo....remember put it before the the stylesheet we have linked so that it does not override our code.
+
+This is important because it will override all the features implemented by user agent ie the browser
+
+margin is reference from the outside ie the gap of the element from its extreme ends
+
+
+
+border is the second phase and padding is the gap between the border and the content
+
+
+Position types:--
+static:-static will not move
+relative:-relative to the div 
+
+
+whenever we create a element we can create the parent as relative and the child as absolute..So for eg when using a text over an image it will consider the iamge and not the full div.

@@ -1,0 +1,74 @@
+.container-fluid img{
+	width:100%;
+}
+/*.carousel-caption
+{
+	text-align:left;
+	bottom:287px;
+	margin-left:-165px;
+}*/
+
+
+#intro{
+	background: url('images/prog.jpg') fixed;
+	background-size: cover;
+	height:650px;
+	/*position: fixed;*/
+}
+
+.box h1{
+	color: white;
+	padding-left: 110px;
+}
+.second{
+	  border: 1px solid rgba(0, 0, 0, 0.21);
+	  box-shadow:2px 11px 13px grey;
+}
+
+.second h1{
+padding-left: 24px;
+
+}
+
+.second p{
+	padding-left: 24px;
+
+}
+.box p{
+	color: white;
+	padding-left: 150px;
+	margin-top: 27px;
+
+}
+
+#continue{
+	  margin-left: 218px;
+	  margin-top: 27px;
+      color: blue;
+}
+#avatar{
+color: grey;
+text-transform: uppercase;
+padding-left: 40%;
+ margin-bottom: 40px;
+ margin-top: 40px;
+
+}
+
+.icon{
+margin-left: 40%;
+}
+
+#below{
+	background:url('images/coding-standards.jpg') fixed;
+	height:560px;
+	background-size: cover;
+	width:100%;
+	margin-top: 30px;
+}
+
+.pannel{
+	  margin-top: 65px;
+	  margin-left: 44px;
+      margin-right: 29px;
+}
