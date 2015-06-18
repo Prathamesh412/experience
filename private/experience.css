@@ -1,0 +1,88 @@
+#intro{
+	background: url('images/prog.jpg') fixed;
+	background-size: cover;
+	height:650px;
+	/*position: fixed;*/
+}
+
+.box h1{
+	color: white;
+	padding-left: 110px;
+}
+.box p{
+	color: white;
+	padding-left: 150px;
+	margin-top: 27px;
+
+}
+
+#continue{
+	  margin-left: 218px;
+	  margin-top: 27px;
+      color: blue;
+}
+
+hr{
+	width: 81px;
+	height: 2px;
+	background-color: #0072bc;
+}
+
+#detail{
+
+	  padding-left: 43%;
+}
+
+#leftsidebar {
+  width: 360px;
+  float: left;
+  height: 589px;
+  background: #333;
+  padding-bottom: 20px;
+}
+
+.main_tittle {
+  width: 280px;
+  float: left;
+  border-top: #606060 1px solid;
+  line-height: 22px;
+  margin: 40px 0px 0px 40px;
+  padding: 15px 0px 0px 0px;
+}
+
+.main_tittle h3{
+	color: white;
+}
+
+.main_desc {
+  width: 280px;
+  float: left;
+  border-top: #606060 1px solid;
+  line-height: 22px;
+  margin: 25px 0px 0px 40px;
+  padding: 10px 0px 0px 0px;
+}
+.update {
+  width: 280px;
+  border-top: #606060 1px solid;
+  line-height: 22px;
+  margin: 20px 0px 0px 40px;
+  padding: 10px 0px 0px 0px;
+}
+
+.main_desc p{
+	  color: wheat
+}
+
+.update h2{
+	  color: wheat
+}
+
+.update li{
+
+	color: wheat
+}
+#sidebar {
+  width: 600px;
+  float: left;
+}
